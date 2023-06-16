@@ -1,11 +1,11 @@
-About r-tinytest
-================
+About r-tinytest-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tinytest-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/markvanderloo/tinytest
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tinytest-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a lightweight (zero-dependency) and easy to use unit testing framework. Main features: install tests with the package. Test results are treated as data that can be stored and manipulated. Test files are R scripts interspersed with test commands, that can be programmed over. Fully automated build-install-test sequence for packages. Skip tests when not run locally (e.g. on CRAN). Flexible and configurable output printing. Compare computed output with output stored with the package. Run tests in parallel. Extensible by other packages. Report side effects.
 
